@@ -1,6 +1,6 @@
 # Duplicate-Quora-Question-Pairs
 
-A NLP project to find weather given 2 questions are same are not semantically speaking. 
+A NLP project to find weather given 2 questions are same or semantically speaking. 
 
 In Quora Question Pairs you need to identify question pairs that have the same intent
 
